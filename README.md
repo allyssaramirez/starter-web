@@ -10,3 +10,6 @@ As stated above, ...
 ## Deployment
 trying simple web
 ## How to Contribute
+
+## Copyright
+2014 Git.Training
