@@ -11,5 +11,7 @@ As stated above, ...
 trying simple web
 ## How to Contribute
 
+Please fork this repository adn then issue Pull requests for review.
+
 ## Copyright
 2014 Git.Training
